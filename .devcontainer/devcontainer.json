@@ -14,7 +14,7 @@
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [3002],
-	"appPort": [3500, "3400:3000"],
+	"appPort": [3700, "3600:3000"],
 
 	// Uncomment the next line to run commands after the container is created.
 	"postCreateCommand": "npm i",
